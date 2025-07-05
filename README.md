@@ -11,7 +11,7 @@ This app was developed to:
 
 - Advocate for refugee rights through storytelling and digital engagement
 - Practice **React**, **Spring Boot**, and full-stack architecture
-- Learn UI/UX patterns including theming, motion preferences, and modals
+- Learn UI/UX patterns, including theming, motion preferences, and modals
 - Explore how technology can support social impact
 
 ---
@@ -27,7 +27,7 @@ This app was developed to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React.js**
@@ -77,11 +77,11 @@ npm run dev
 
 ## Certificate of Completion
 
-This project was originally created as part of the **Intro to Web Development Fall 2024 Course by CodePath**.
+This project was created as part of the **Intro to Web Development Fall 2024 Course by CodePath**.
 
-I successfully completed the program and earned a certificate, demonstrating my proficiency in **HTML, CSS, and JavaScript** through the development of a simple awareness website.
+I completed the program and earned a certificate, demonstrating my proficiency in **HTML, CSS, and JavaScript** through the development of a simple awareness website.
 
-Since then, I have expanded the project into a full-stack application using **React** and **Spring Boot**, incorporating real-time petition analytics, email confirmations, and backend integration reflecting my continued growth and dedication to learning full-stack development.
+Since then, I have expanded the project into a full-stack application using **React** and **Spring Boot**, incorporating real-time petition analytics, email confirmations, and backend integration, reflecting my continued growth and dedication to learning full-stack development.
 
 CodePath is an incredible community that opens pathways into tech, and I am proud to be part of it!
 
