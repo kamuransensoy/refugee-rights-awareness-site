@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Node.js / React (frontend)
+refugee_rights_react/node_modules/
+refugee_rights_react/dist/
+refugee_rights_react/.env
+
+# Spring Boot / Java (backend)
+refugee-rights-springboot/target/
+refugee-rights-springboot/.classpath
+refugee-rights-springboot/.project
+refugee-rights-springboot/.settings/
+refugee-rights-springboot/.env
+
+# IntelliJ / JetBrains / VSCode
+.idea/
+*.iml
+.vscode/
+
+# OS system files
+Thumbs.db

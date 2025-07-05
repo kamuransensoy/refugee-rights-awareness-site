@@ -1,0 +1,43 @@
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Utility Classes */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Theme Utility */
+:root {
+  --primary-color: #4a90e2;
+  --dark-bg: #121212;
+  --dark-text: #ffffff;
+  --light-bg: #ffffff;
+  --light-text: #333333;
+}
